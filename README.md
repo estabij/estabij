@@ -5,7 +5,7 @@
 **20+ years** of software engineering experience, now focused on building **intelligent systems** that solve real-world problems. 
 From algorithmic trading to enterprise RAG chatbots, I turn complex AI concepts into production-ready solutions.
 
-📍 Based in the Netherlands | 🎓 MSc Physics & Computer Science (Leiden University) | 🏢 Owner of StarBrain Media B.V.
+📍 Based in the Netherlands | 🎓 MSc Physics & Computer Science (Leiden University) | 🏢 Owner of StarBrain AI.
 
 ---
 
